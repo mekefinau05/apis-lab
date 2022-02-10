@@ -1,0 +1,14 @@
+#theButton {
+    height: 60px;
+    width: 160px;
+    background-image: url("https://media2.giphy.com/media/3ohuPBA3489AkQk1i0/giphy.gif");
+    color: white;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+
+}
+
+body {
+    background-color: aqua;
+}
